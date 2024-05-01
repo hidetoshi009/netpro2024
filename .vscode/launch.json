@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyExceptionHoliday",
+            "request": "launch",
+            "mainClass": "MyExceptionHoliday",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "MyExceptionTest",
+            "request": "launch",
+            "mainClass": "MyExceptionTest",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
             "name": "HeikinCKadai",
             "request": "launch",
             "mainClass": "HeikinCKadai",
