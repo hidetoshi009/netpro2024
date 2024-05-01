@@ -1,0 +1,202 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HeikinCKadai",
+            "request": "launch",
+            "mainClass": "HeikinCKadai",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "HeikinA",
+            "request": "launch",
+            "mainClass": "HeikinA",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "XmasTree",
+            "request": "launch",
+            "mainClass": "XmasTree",
+            "projectName": "netpro2024_2a68e9a6",
+            "args": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Calc3MethodTestInatance",
+            "request": "launch",
+            "mainClass": "Calc3MethodTestInatance",
+            "projectName": "netpro2024_2a68e9a6",
+            "args": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Calc3MethodTest",
+            "request": "launch",
+            "mainClass": "Calc3MethodTest",
+            "projectName": "netpro2024_2a68e9a6",
+            "args": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Calc2ScannerFile",
+            "request": "launch",
+            "mainClass": "Calc2ScannerFile",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Calc2Scanner",
+            "request": "launch",
+            "mainClass": "Calc2Scanner",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Calc2",
+            "request": "launch",
+            "mainClass": "Calc2",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "CSVReaderExample",
+            "request": "launch",
+            "mainClass": "CSVReaderExample",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Calc1",
+            "request": "launch",
+            "mainClass": "Calc1",
+            "projectName": "netpro2024_2a68e9a6",
+            "args": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Hello2",
+            "request": "launch",
+            "mainClass": "Hello2",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Hello3",
+            "request": "launch",
+            "mainClass": "Hello3",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Hello4",
+            "request": "launch",
+            "mainClass": "Hello4",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Hello5_",
+            "request": "launch",
+            "mainClass": "Hello5_",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "HelloArgs",
+            "request": "launch",
+            "mainClass": "HelloArgs",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "HowOldAreYou",
+            "request": "launch",
+            "mainClass": "HowOldAreYou",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "IfTest0",
+            "request": "launch",
+            "mainClass": "IfTest0",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "IfTest1",
+            "request": "launch",
+            "mainClass": "IfTest1",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "IfTest2",
+            "request": "launch",
+            "mainClass": "IfTest2",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "IfTest3",
+            "request": "launch",
+            "mainClass": "IfTest3",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "NetproLabMember",
+            "request": "launch",
+            "mainClass": "NetproLabMember",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "StringBufferTest",
+            "request": "launch",
+            "mainClass": "StringBufferTest",
+            "projectName": "netpro2024_2a68e9a6"
+        }
+    ]
+}
