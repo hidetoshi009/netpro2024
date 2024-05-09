@@ -27,12 +27,14 @@ public class NetproLabMember {
 
   // Combination　未実装
   public static final long combination(final int n, int r) {
-    int count = 0;
-    for(int i=0; i<n-1;i++){
-        for(int j = i;j<n;j++){
-            count++;
-        }
+    // n=総人数  r=岩井研
+    long numerator = 1;
+    long denominator = 1;
+    for (int i = 0; i < r; i++) {
+        numerator *= (n - i);
+        denominator *= (i + 1);
     }
-    return count;
+    return numerator / denominator;
+
   }
 }
