@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HotelTCPClient",
+            "request": "launch",
+            "mainClass": "HotelTCPClient",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "HotelTCPServer",
+            "request": "launch",
+            "mainClass": "HotelTCPServer",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "XmasTCPClient",
+            "request": "launch",
+            "mainClass": "XmasTCPClient",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "XmasServer",
+            "request": "launch",
+            "mainClass": "XmasServer",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Client",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
             "name": "MyExceptionHoliday",
             "request": "launch",
             "mainClass": "MyExceptionHoliday",
