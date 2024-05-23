@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TaskClientWhile",
+            "request": "launch",
+            "mainClass": "TaskClientWhile",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "TaskServerWhile",
+            "request": "launch",
+            "mainClass": "TaskServerWhile",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "TaskServer",
+            "request": "launch",
+            "mainClass": "TaskServer",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "TaskClient",
+            "request": "launch",
+            "mainClass": "TaskClient",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "DinnerFullCourse",
+            "request": "launch",
+            "mainClass": "DinnerFullCourse",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "HybridCarImpl",
+            "request": "launch",
+            "mainClass": "HybridCarImpl",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Dinner",
+            "request": "launch",
+            "mainClass": "Dinner",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "ReferencesArgument",
+            "request": "launch",
+            "mainClass": "ReferencesArgument",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "CheakLocalAddress",
+            "request": "launch",
+            "mainClass": "CheakLocalAddress",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
             "name": "HotelTCPClient",
             "request": "launch",
             "mainClass": "HotelTCPClient",
