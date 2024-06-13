@@ -6,8 +6,10 @@
     ],
     "commentTranslate.hover.enabled": true,
     "java.project.sourcePaths": [
+        "socket-3/threading",
         "socket-3/src",
         "socket-2/src",
-        "socket-3/threading"
+        "gui/src/guibasic",
+        "gui/src"
     ]
 }
