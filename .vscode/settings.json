@@ -1,15 +1,18 @@
 {
     "java.debug.settings.onBuildFailureProceed": true,
     "cSpell.words": [
+        "guibasic",
         "maxsosuu",
         "Sosuu"
     ],
     "commentTranslate.hover.enabled": true,
     "java.project.sourcePaths": [
-        "socket-3/threading",
         "socket-3/src",
         "socket-2/src",
-        "gui/src/guibasic",
-        "gui/src"
+        "gui/src",
+        "Numer0n\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\gokya\\Desktop\\netpro2024\\lib\\junit-platform-console-standalone-1.11.0-M1.jar"
     ]
 }

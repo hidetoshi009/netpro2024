@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testplay",
+            "request": "launch",
+            "mainClass": "test.testplay",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "NumeronGUI",
+            "request": "launch",
+            "mainClass": "client.NumeronGUI",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "server.Server",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "NumeronGUI",
+            "request": "launch",
+            "mainClass": "NumeronGUI",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
+            "name": "MovingBallAWT",
+            "request": "launch",
+            "mainClass": "MovingBallAWT",
+            "projectName": "netpro2024_2a68e9a6"
+        },
+        {
+            "type": "java",
             "name": "GUIAnimationMain",
             "request": "launch",
             "mainClass": "guichat.GUIAnimationMain",
